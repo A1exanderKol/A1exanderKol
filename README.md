@@ -1,23 +1,24 @@
-#Hi, I'm Alexander 👋
+# Hi, I'm Alexander 👋
 
-##💻 Junior+ Backend Python Developer
+## 💻 Junior+ Backend Python Developer
 
-I am a backend developer focused on building server-side applications and APIs with Python.
+I am a backend developer focused on building server-side applications and APIs with Python.  
 I enjoy developing reliable backend systems, working with databases, and building services that solve real-world problems.
 
 I am constantly improving my backend development skills, learning application architecture, and striving to write clean and maintainable code.
 
-##🛠 What I Do
+---
 
-Develop backend services and APIs
+## 🛠 What I Do
 
-Work with databases and data models
+- Develop backend services and APIs
+- Work with databases and data models
+- Implement server-side logic and algorithms
+- Build and improve personal projects
 
-Implement server-side logic and algorithms
+---
 
-Build and improve personal projects
-
-#🎯 Goal
+## 🎯 Goal
 
 To grow as a backend developer, contribute to real products, and work on scalable services.
 
